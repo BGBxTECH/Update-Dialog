@@ -9,7 +9,7 @@
 ᇂ CPU: Universal\n",
   "update_url": "https://example.com/download/app.apk",
   "show_close_button": false,
-  "show_expandable_text": true,
+  "show_expandable_text": false,
   "expandable_text": "This is the expanded text section providing additional details about the update. It can include more information about new features, improvements, or other relevant notes.",
   "custom_app_name": "BGBxTECH"
 }
