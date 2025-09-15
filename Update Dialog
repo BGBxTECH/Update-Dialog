@@ -8,7 +8,7 @@
 ᇂ Default Ending Removed\n  
 ᇂ CPU: Universal\n",
   "update_url": "https://example.com/download/app.apk",
-  "show_close_button": true,
+  "show_close_button": false,
   "show_expandable_text": true,
   "expandable_text": "This is the expanded text section providing additional details about the update. It can include more information about new features, improvements, or other relevant notes.",
   "custom_app_name": "BGBxTECH"
